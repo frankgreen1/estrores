@@ -2,578 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d94f81e-f7de-498c-9f66-78b3dfd4f5cb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/Catagori.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/about.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/css/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/css/animate.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/css/aos.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/css/flaticon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/css/fontawesome-all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/css/lightslider.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/css/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/css/nice-select.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/css/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/css/price_rangs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/css/slick-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/css/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/css/slick.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/css/slicknav.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/css/style.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/css/swiper.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/css/themify-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/fonts/Flaticon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/fonts/Flaticon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/fonts/Flaticon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/fonts/Flaticon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/fonts/Flaticon.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/fonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/fonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/fonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/fonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/fonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/fonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/fonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/fonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/fonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/fonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/fonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/fonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/fonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/fonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/fonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/fonts/flaticon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/fonts/themify.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/fonts/themify.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/fonts/themify.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/fonts/themify.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/about/about_lft.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/about/about_right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/about/pet_care.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/about_img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/about_img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/about_us_video.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/adapt_icon/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/adapt_icon/1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/adapt_icon/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/adapt_icon/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/arrivel/arrivel_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/arrivel/arrivel_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/arrivel/arrivel_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/arrivel/arrivel_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/arrivel/arrivel_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/arrivel/arrivel_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/author/author_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/author/author_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/author/author_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/b1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/b2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/b3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/banner/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/banner/contact_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/banner/dog.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/banner/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/banner_img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/banner_pattern.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/banner_shape.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/add.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/author.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/blog1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/blog2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/blog3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/blog_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/blog_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/blog_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/blog_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/c1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/c2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/c3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/cat-post/cat-post-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/cat-post/cat-post-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/cat-post/cat-post-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/causes/causes-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/causes/causes-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/causes/causes-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/feature-img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/learn_about_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/main-blog/m-blog-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/main-blog/m-blog-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/main-blog/m-blog-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/main-blog/m-blog-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/main-blog/m-blog-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/next.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/popular-post/post1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/popular-post/post2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/popular-post/post3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/popular-post/post4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/post-img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/post-img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/prev.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/single_blog_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/single_blog_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/single_blog_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/single_blog_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/single_blog_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/blog/slide_thumb_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/categori/card-man.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/categori/card-shape.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/categori/card.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/categori/cat1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/categori/cat2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/categori/cat3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/categori/category_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/categori/category_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/categori/category_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/categori/category_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/categori/category_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/categori/category_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/categori/category_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/categori/category_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/categori/category_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/categori/category_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/categori/category_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/categori/category_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/categori/product1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/categori/product2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/categori/product3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/categori/product4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/categori/product5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/categori/product6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/client.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/client_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/client_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/collection/collection1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/collection/collection2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/collection/collection3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/collection/collection4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/collection/collection5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/collection/latest-man.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/collection/latest-offer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/comment/comment_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/comment/comment_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/comment/comment_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/elements/_DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/elements/a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/elements/a2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/elements/d.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/elements/disabled-check.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/elements/disabled-radio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/elements/f1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/elements/f2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/elements/f3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/elements/f4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/elements/f5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/elements/f6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/elements/f7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/elements/f8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/elements/g1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/elements/g2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/elements/g3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/elements/g4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/elements/g5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/elements/g6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/elements/g7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/elements/g8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/elements/primary-check.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/elements/primary-radio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/elements/success-check.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/elements/success-radio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/elements/user1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/elements/user2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/feature_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/feature_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/feature_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/gallery/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/gallery/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/gallery/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/gallery/gallery1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/gallery/gallery2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/gallery/gallery3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/gallery/gallery4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/gallery/gallery5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/hero/Industries_hero.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/hero/about_hero.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/hero/category.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/hero/contact_hero.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/hero/gallery_hero.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/hero/h1_hero.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/hero/hero_man.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/hero/services_hero.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/icon/arrow-left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/icon/arrow-right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/icon/color_star.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/icon/feature_icon_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/icon/feature_icon_1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/icon/feature_icon_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/icon/feature_icon_2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/icon/feature_icon_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/icon/feature_icon_3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/icon/feature_icon_4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/icon/header_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/icon/icon_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/icon/icon_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/icon/icon_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/icon/icon_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/icon/left-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/icon/left.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/icon/play.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/icon/quate.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/icon/right-arrow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/icon/right-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/icon/right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/icon/star.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/login.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/logo/date-picker-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/logo/form-iocn.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/logo/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/logo/logo2_footer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/logo/select-items-icon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/logo/testimonial.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/offer-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/offers/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/offers/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/offers/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/our_blog/blog-img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/post/next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/post/post_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/post/post_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/post/post_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/post/post_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/post/post_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/post/post_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/post/post_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/post/post_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/post/post_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/post/post_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/post/preview.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/prising/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/prising/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/prising/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/prising/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/prising/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/prising/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/prising/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/prising/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/prising/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/prising/9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/product/product_list_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/product/product_list_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/product/product_list_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/product/product_list_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/product/product_list_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/product/product_list_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/product/product_list_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/product/product_list_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/product/product_list_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/product/product_list_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/product/single_product.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/product_details/prodect_details_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/product_details/prodect_details_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/product_details/prodect_details_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/product_details/prodect_details_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/product_overlay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/service/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/service/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/service/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/service/service_icon_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/service/service_icon_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/service/service_icon_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/service/service_icon_bg_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/single_product_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/single_product_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/single_product_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/team/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/team/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/team/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/testmonial/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/testmonial/Homepage_testi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/time_line_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/tranding_item/tranding_item_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/tranding_item/tranding_item_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/tranding_item/tranding_item_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/tranding_item/tranding_item_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/tranding_item/tranding_item_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/img/tranding_item/tranding_item_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/animated.headline.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/aos.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/cells-by-column.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/gmaps.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/jquery-1.12.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/jquery.ajaxchimp.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/jquery.counterup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/jquery.downCount.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/jquery.easing.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/jquery.form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/jquery.magnific-popup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/jquery.nice-select.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/jquery.paroller.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/jquery.scrollUp.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/jquery.slicknav.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/jquery.sticky.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/jquery.validate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/lightslider.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/mail-script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/mixitup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/one-page-nav-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/price_rangs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/slick.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/stellar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/swiper.jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/swiper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/swiper_custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/theme.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/vendor/jquery-1.12.4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/vendor/modernizr-3.5.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/waypoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/js/wow.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_about_us.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_banner.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_best-product.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_best_seller.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_blog.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_blog_page.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_blog_part.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_bradcam.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_breadcrumb.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_button.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_category.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_client_logo.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_client_review.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_color.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_common.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_confirmation_part.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_contact.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_copyright_part.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_cource_details.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_cta_part.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_elements.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_extend.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_feature_part.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_h1-hero.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_headerMenu.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_instagram_photo.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_latest_products.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_new_arrival.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_our_offer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_overlay.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_product.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_product_list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_recent.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_review.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_services.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_shipping_details.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_single_blog.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_single_product.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_special_cource.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_subscribe_part.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_team.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_testimonial.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_trending_items.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/scss/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/assets/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/cart.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/checkout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/confirmation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/contact.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/contact_process.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/css/normalize.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/img/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/js/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/js/jquery-1.11.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/js/jquery.nav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/scripts/shAutoloader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/scripts/shBrushAS3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/scripts/shBrushAppleScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/scripts/shBrushBash.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/scripts/shBrushCSharp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/scripts/shBrushColdFusion.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/scripts/shBrushCpp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/scripts/shBrushCss.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/scripts/shBrushDelphi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/scripts/shBrushDiff.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/scripts/shBrushErlang.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/scripts/shBrushGroovy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/scripts/shBrushJScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/scripts/shBrushJava.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/scripts/shBrushJavaFX.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/scripts/shBrushPerl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/scripts/shBrushPhp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/scripts/shBrushPlain.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/scripts/shBrushPowerShell.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/scripts/shBrushPython.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/scripts/shBrushRuby.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/scripts/shBrushSass.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/scripts/shBrushScala.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/scripts/shBrushSql.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/scripts/shBrushVb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/scripts/shBrushXml.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/scripts/shCore.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/scripts/shLegacy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/styles/shCore.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/styles/shCoreDefault.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/styles/shCoreDjango.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/styles/shCoreEclipse.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/styles/shCoreEmacs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/styles/shCoreFadeToGrey.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/styles/shCoreMDUltra.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/styles/shCoreMidnight.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/styles/shCoreRDark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/styles/shThemeDefault.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/styles/shThemeDjango.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/styles/shThemeEclipse.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/styles/shThemeEmacs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/styles/shThemeFadeToGrey.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/styles/shThemeMDUltra.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/styles/shThemeMidnight.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/eCommerce Doc/syntax-highlighter/styles/shThemeRDark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/elements.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/form.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/headLink.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/library.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/process.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/product_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/register.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/single-blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estore/single-product.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/blank.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/css/demo-page.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/css/examples.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/css/geochart.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/css/hover.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/css/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/demo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/404.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/b3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/climate.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/ftr-icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/login.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/mess.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/p1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/p2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/p3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/p4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/p5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/p6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/p7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/p8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/prev.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/pro1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/pro10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/pro12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/pro2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/pro3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/pro4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/pro5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/pro6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/pro7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/pro8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/pro9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/reg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/shoppy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/tick.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/images/visit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/js/Chart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/js/bars.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/js/chartinator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/js/gmaps.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/js/jquery-2.1.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/js/jquery.magnific-popup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/js/jquery.nicescroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/js/modernizr.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/js/nivo-lightbox.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/js/skycons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/lib.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/library.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/logOut.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/loginProcess.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/product.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/product_images/5ede15c7d3e3f.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/product_images/5ede1ab16182f.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/product_images/5ede1ae12f4f9.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/product_images/5ede1c12f13c4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/product_images/5edf557d74fe5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/product_images/5edf562de08e8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/product_images/5edf573cc0e69.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/product_images/5edf573cc1711.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/product_images/5edf573cc1f02.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/product_images/5edf573cc2931.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/product_images/5edf5a5fbcdca.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/product_images/5edf5ac613842.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/product_images/5ee08f2e5d8cb.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/product_images/5ee092590fb78.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/product_images/5ee09acaaa7c7.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/product_images/5ee0fc756843e.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/side.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/sign.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/signUpProcess.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppy/web/upper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estore/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/estore/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -601,8 +31,8 @@
       <file leaf-file-name="demo.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shoppy/web/demo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="27" column="49" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="49" />
+            <state relative-caret-position="660">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -619,8 +49,11 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/estore/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4576">
-              <caret line="196" selection-start-line="196" selection-end-line="196" />
+            <state relative-caret-position="352">
+              <caret line="196" lean-forward="true" selection-start-line="196" selection-end-line="196" />
+              <folding>
+                <element signature="e#51936#51942#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -708,10 +141,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION" />
-    <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION" />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -771,7 +200,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -779,21 +207,11 @@
               <item name="estore" type="b2602c69:ProjectViewProjectNode" />
               <item name="estore" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="estore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="estore" type="462c0819:PsiDirectoryNode" />
-              <item name="shoppy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="estore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="estore" type="462c0819:PsiDirectoryNode" />
-              <item name="shoppy" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -802,7 +220,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -854,33 +272,44 @@
       <workItem from="1591693197835" duration="5438000" />
       <workItem from="1591783165484" duration="10390000" />
       <workItem from="1592894671679" duration="2626000" />
-      <workItem from="1595851647740" duration="2861000" />
+      <workItem from="1595851647740" duration="4200000" />
+      <workItem from="1595857755915" duration="3371000" />
+      <workItem from="1595862645825" duration="557000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113421000" />
+    <option name="totallyTimeSpent" value="118688000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50073206" side_tool="true" weight="0.32838285" />
-      <window_info anchor="bottom" id="Command Line Tools Console" sideWeight="0.49926794" weight="0.32838285" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8646865" visible="true" weight="0.14128843" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32933104" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50073206" side_tool="true" weight="0.31518152" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3191801" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49926794" visible="true" weight="0.23762377" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8646865" visible="true" weight="0.14128843" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" weight="0.3191801" />
       <window_info id="Structure" order="1" sideWeight="0.13531353" side_tool="true" weight="0.14128843" />
+      <window_info active="true" anchor="bottom" x="0" y="332" width="1366" height="64" id="Terminal" order="7" sideWeight="0.49926794" type="FLOATING" visible="true" weight="0.105610564" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Command Line Tools Console" order="8" sideWeight="0.49926794" weight="0.32838285" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32838285" />
@@ -1193,13 +622,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shoppy/web/demo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" column="49" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/estore/single-product.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -1257,10 +679,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/shoppy/web/demo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/estore/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4576">
-          <caret line="196" selection-start-line="196" selection-end-line="196" />
+        <state relative-caret-position="352">
+          <caret line="196" lean-forward="true" selection-start-line="196" selection-end-line="196" />
+          <folding>
+            <element signature="e#51936#51942#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

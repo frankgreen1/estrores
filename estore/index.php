@@ -178,7 +178,7 @@ require_once "headLink.php";
                                     <div class="col-xl-4 col-lg-4 col-md-6">
                                         <div class="single-product mb-60">
                                             <div class="product-img">
-                                                <img src="..estore/estore/product_images/<?php  print  $value['prodImg'];?>" alt="" width="260" height="380">
+                                                <img src="../shoppy/web/product_images/<?php  print  $value['prodImg'];?>" alt="" width="260" height="380">
                                                 <div class="new-product">
                                                     <span>New</span>
                                                 </div>
